@@ -1,0 +1,43 @@
+CREATE TABLE NhaCungCap (
+    MaNCC NVARCHAR(10) PRIMARY KEY,
+    TenNCC NVARCHAR(100),
+    DiaChi NVARCHAR(100),
+    SDT NVARCHAR(20)
+);
+
+CREATE TABLE SanPham (
+    MaSP NVARCHAR(10) PRIMARY KEY,
+    TenSP NVARCHAR(100),
+    SoLuong INT,
+    DonGiaNhap DECIMAL(18,2),
+    DonGiaXuat DECIMAL(18,2),
+    MaNCC NVARCHAR(10) FOREIGN KEY REFERENCES NhaCungCap(MaNCC)
+);
+
+CREATE TABLE PhieuNhap (
+    MaPN NVARCHAR(10) PRIMARY KEY,
+    NgayNhap DATE,
+    MaNCC NVARCHAR(10),
+    FOREIGN KEY (MaNCC) REFERENCES NhaCungCap(MaNCC)
+);
+
+CREATE TABLE ChiTietNhap (
+    MaPN NVARCHAR(10),
+    MaSP NVARCHAR(10),
+    SoLuong INT,
+    DonGia DECIMAL(18,2),
+    PRIMARY KEY (MaPN, MaSP)
+);
+
+CREATE TABLE PhieuXuat (
+    MaPX NVARCHAR(10) PRIMARY KEY,
+    NgayXuat DATE
+);
+
+CREATE TABLE ChiTietXuat (
+    MaPX NVARCHAR(10),
+    MaSP NVARCHAR(10),
+    SoLuong INT,
+    DonGia DECIMAL(18,2),
+    PRIMARY KEY (MaPX, MaSP)
+);
