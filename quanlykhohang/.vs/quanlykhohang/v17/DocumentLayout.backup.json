@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\quanlykhohang\\quanlykhohang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E152FA4C-166A-4EE4-8799-9488C53A7B6C}|quanlykhohang\\quanlykhohang.csproj|d:\\git\\quanlykhohang\\quanlykhohang\\quanlykhohang\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E152FA4C-166A-4EE4-8799-9488C53A7B6C}|quanlykhohang\\quanlykhohang.csproj|solutionrelative:quanlykhohang\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E152FA4C-166A-4EE4-8799-9488C53A7B6C}|quanlykhohang\\quanlykhohang.csproj|d:\\git\\quanlykhohang\\quanlykhohang\\quanlykhohang\\gui\\frmdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E152FA4C-166A-4EE4-8799-9488C53A7B6C}|quanlykhohang\\quanlykhohang.csproj|solutionrelative:quanlykhohang\\gui\\frmdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E152FA4C-166A-4EE4-8799-9488C53A7B6C}|quanlykhohang\\quanlykhohang.csproj|d:\\git\\quanlykhohang\\quanlykhohang\\quanlykhohang\\gui\\frmdangnhap.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{E152FA4C-166A-4EE4-8799-9488C53A7B6C}|quanlykhohang\\quanlykhohang.csproj|solutionrelative:quanlykhohang\\gui\\frmdangnhap.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E152FA4C-166A-4EE4-8799-9488C53A7B6C}|quanlykhohang\\quanlykhohang.csproj|d:\\git\\quanlykhohang\\quanlykhohang\\quanlykhohang\\gui\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E152FA4C-166A-4EE4-8799-9488C53A7B6C}|quanlykhohang\\quanlykhohang.csproj|solutionrelative:quanlykhohang\\gui\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E152FA4C-166A-4EE4-8799-9488C53A7B6C}|quanlykhohang\\quanlykhohang.csproj|d:\\git\\quanlykhohang\\quanlykhohang\\quanlykhohang\\gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E152FA4C-166A-4EE4-8799-9488C53A7B6C}|quanlykhohang\\quanlykhohang.csproj|solutionrelative:quanlykhohang\\gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E152FA4C-166A-4EE4-8799-9488C53A7B6C}|quanlykhohang\\quanlykhohang.csproj|d:\\git\\quanlykhohang\\quanlykhohang\\quanlykhohang\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E152FA4C-166A-4EE4-8799-9488C53A7B6C}|quanlykhohang\\quanlykhohang.csproj|solutionrelative:quanlykhohang\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E152FA4C-166A-4EE4-8799-9488C53A7B6C}|quanlykhohang\\quanlykhohang.csproj|d:\\git\\quanlykhohang\\quanlykhohang\\quanlykhohang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E152FA4C-166A-4EE4-8799-9488C53A7B6C}|quanlykhohang\\quanlykhohang.csproj|solutionrelative:quanlykhohang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 128,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "D:\\git\\quanlykhohang\\quanlykhohang\\quanlykhohang\\GUI\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "quanlykhohang\\GUI\\frmMain.Designer.cs",
+              "ToolTip": "D:\\git\\quanlykhohang\\quanlykhohang\\quanlykhohang\\GUI\\frmMain.Designer.cs*",
+              "RelativeToolTip": "quanlykhohang\\GUI\\frmMain.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T08:37:12.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\quanlykhohang\\quanlykhohang\\quanlykhohang\\Program.cs",
+              "RelativeDocumentMoniker": "quanlykhohang\\Program.cs",
+              "ToolTip": "D:\\git\\quanlykhohang\\quanlykhohang\\quanlykhohang\\Program.cs",
+              "RelativeToolTip": "quanlykhohang\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:47:07.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\git\\quanlykhohang\\quanlykhohang\\quanlykhohang\\GUI\\frmMain.cs",
+              "RelativeDocumentMoniker": "quanlykhohang\\GUI\\frmMain.cs",
+              "ToolTip": "D:\\git\\quanlykhohang\\quanlykhohang\\quanlykhohang\\GUI\\frmMain.cs [Design]*",
+              "RelativeToolTip": "quanlykhohang\\GUI\\frmMain.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:45:12.646Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDangNhap.resx",
+              "DocumentMoniker": "D:\\git\\quanlykhohang\\quanlykhohang\\quanlykhohang\\GUI\\frmDangNhap.resx",
+              "RelativeDocumentMoniker": "quanlykhohang\\GUI\\frmDangNhap.resx",
+              "ToolTip": "D:\\git\\quanlykhohang\\quanlykhohang\\quanlykhohang\\GUI\\frmDangNhap.resx",
+              "RelativeToolTip": "quanlykhohang\\GUI\\frmDangNhap.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-10T07:43:59.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "D:\\git\\quanlykhohang\\quanlykhohang\\quanlykhohang\\GUI\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "quanlykhohang\\GUI\\frmDangNhap.cs",
+              "ToolTip": "D:\\git\\quanlykhohang\\quanlykhohang\\quanlykhohang\\GUI\\frmDangNhap.cs",
+              "RelativeToolTip": "quanlykhohang\\GUI\\frmDangNhap.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAvwCUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:38:23.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDangNhap.Designer.cs",
+              "DocumentMoniker": "D:\\git\\quanlykhohang\\quanlykhohang\\quanlykhohang\\GUI\\frmDangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "quanlykhohang\\GUI\\frmDangNhap.Designer.cs",
+              "ToolTip": "D:\\git\\quanlykhohang\\quanlykhohang\\quanlykhohang\\GUI\\frmDangNhap.Designer.cs",
+              "RelativeToolTip": "quanlykhohang\\GUI\\frmDangNhap.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:38:05.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\git\\quanlykhohang\\quanlykhohang\\quanlykhohang\\GUI\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "quanlykhohang\\GUI\\frmDangNhap.cs",
+              "ToolTip": "D:\\git\\quanlykhohang\\quanlykhohang\\quanlykhohang\\GUI\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "quanlykhohang\\GUI\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:34:56.803Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

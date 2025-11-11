@@ -1,0 +1,12 @@
+D:\git\quanlykhohang\quanlykhohang\quanlykhohang\bin\Debug\quanlykhohang.exe.config
+D:\git\quanlykhohang\quanlykhohang\quanlykhohang\bin\Debug\quanlykhohang.exe
+D:\git\quanlykhohang\quanlykhohang\quanlykhohang\bin\Debug\quanlykhohang.pdb
+D:\git\quanlykhohang\quanlykhohang\quanlykhohang\obj\Debug\quanlykhohang.csproj.AssemblyReference.cache
+D:\git\quanlykhohang\quanlykhohang\quanlykhohang\obj\Debug\quanlykhohang.frmDangNhap.resources
+D:\git\quanlykhohang\quanlykhohang\quanlykhohang\obj\Debug\quanlykhohang.Properties.Resources.resources
+D:\git\quanlykhohang\quanlykhohang\quanlykhohang\obj\Debug\quanlykhohang.csproj.GenerateResource.cache
+D:\git\quanlykhohang\quanlykhohang\quanlykhohang\obj\Debug\quanlykhohang.csproj.CoreCompileInputs.cache
+D:\git\quanlykhohang\quanlykhohang\quanlykhohang\obj\Debug\quanlykhohang.exe
+D:\git\quanlykhohang\quanlykhohang\quanlykhohang\obj\Debug\quanlykhohang.pdb
+D:\git\quanlykhohang\quanlykhohang\quanlykhohang\obj\Debug\quanlykhohang.exe.config
+D:\git\quanlykhohang\quanlykhohang\quanlykhohang\obj\Debug\quanlykhohang.GUI.frmMain.resources
