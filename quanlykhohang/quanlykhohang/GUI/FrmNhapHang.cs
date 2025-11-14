@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace quanlykhohang.GUI
 {
-    public partial class FrmNhapHang : Form
+    public partial class frmnhaphang : Form
     {
-        public FrmNhapHang()
+        public frmnhaphang()
         {
             InitializeComponent();
         }

@@ -1,6 +1,6 @@
 ﻿namespace quanlykhohang.GUI
 {
-    partial class FrmNhapHang
+    partial class frmnhaphang
     {
         /// <summary>
         /// Required designer variable.
@@ -28,12 +28,68 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // panel1
+            // 
+            this.panel1.Controls.Add(this.textBox1);
+            this.panel1.Controls.Add(this.dataGridView1);
+            this.panel1.Location = new System.Drawing.Point(-1, 6);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(798, 233);
+            this.panel1.TabIndex = 0;
+            // 
+            // panel2
+            // 
+            this.panel2.Location = new System.Drawing.Point(-1, 245);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(798, 202);
+            this.panel2.TabIndex = 1;
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(24, 48);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowHeadersWidth = 51;
+            this.dataGridView1.RowTemplate.Height = 24;
+            this.dataGridView1.Size = new System.Drawing.Size(379, 173);
+            this.dataGridView1.TabIndex = 0;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(48, 6);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(201, 22);
+            this.textBox1.TabIndex = 1;
+            // 
+            // frmnhaphang
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "FrmNhapHang";
+            this.ClientSize = new System.Drawing.Size(795, 445);
+            this.Controls.Add(this.panel2);
+            this.Controls.Add(this.panel1);
+            this.Name = "frmnhaphang";
+            this.Text = "frmnhaphang";
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.TextBox textBox1;
     }
 }
